@@ -1,0 +1,38 @@
+{
+  "_comment": "迷你示例，仅演示译文源格式。请用你自己整合包的真实内容替换。",
+  "book": {
+    "title": "示例任务书",
+    "subtitle": "副标题写在这里。"
+  },
+  "groups": {
+    "story": "故事",
+    "optional": "可选内容"
+  },
+  "chapters": {
+    "chapter_one": {
+      "title": "第一章 · 起始",
+      "subtitle": "章节副标题",
+      "description": [
+        "章节简介第一段。",
+        "章节简介第二段。"
+      ],
+      "quests": {
+        "first_steps": {
+          "title": "迈出第一步",
+          "subtitle": "主线目标",
+          "description": [
+            "任务说明第一段。",
+            "任务说明第二段。"
+          ]
+        },
+        "side_quest": {
+          "title": "支线任务",
+          "subtitle": "可选",
+          "description": [
+            "这是一个可选任务的说明。"
+          ]
+        }
+      }
+    }
+  }
+}
